@@ -9,3 +9,7 @@ Mechanically, catastrophes manifest as major events or challenges designed to ch
 Catastrophes are not always sudden or explosive. Often, they creep, building tension like a gathering storm, waiting for the right moment to strike. They are like the kingdom that lost the war, due to one missing horse nail. 
 
 The only way to fully avoid and eliminate a Catastrophe is to have destroyed the Miracle associated with it. Despite so, Catastrophes can be delayed, survived through, and quelled with strategic and intentional planning. This is one of the game's major source of motivation. 
+##### At Character Creation: 
+The first interaction with Catastrophe is in Session 0. Your use of your Miracle 
+##### In Game: 
+##### Regarding Advancement: 
