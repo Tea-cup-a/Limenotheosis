@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Glossary/Divinity.md",
+                "file": "2. Glossary/Catastrophe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divinity"
+              "title": "Catastrophe"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Main book/4. Character Creation.md",
+                "file": "2. Glossary/Catastrophe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Character Creation"
+              "title": "Backlinks for Catastrophe"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Limenotheosis.md",
+                "file": "2. Glossary/Catastrophe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Limenotheosis"
+              "title": "Outgoing links from Catastrophe"
             }
           },
           {
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,32 +172,32 @@
   },
   "active": "164d4714a5c4160b",
   "lastOpenFiles": [
-    "2. Glossary/Capabilities.md",
-    "2. Glossary/Divinity.md",
     "2. Glossary/Catalyst.md",
-    "2. Glossary/Divine Ascension.md",
-    "2. Glossary/Catastrophe.md",
-    "2. Glossary/Contest (WIP).md",
-    "2. Glossary/Damage (Trauma) WIP.md",
-    "2. Glossary/Drive.md",
-    "2. Glossary/Cost.md",
+    "2. Glossary/Capabilities.md",
     "2. Glossary/Advances (Advancement).md",
     "1. Main book/6. Humanity and Divinity.md",
+    "1. Main book/5. Divine Ascension.md",
+    "1. Main book/4. Character Creation.md",
+    "1. Main book/3. Running the Game.md",
+    "1. Main book/2. The Fractured World.md",
+    "1. Main book/1. Concepts.md",
+    "2. Glossary/Fractures.md",
+    "2. Glossary/Fractured World.md",
+    "2. Glossary/Drive.md",
+    "2. Glossary/Divinity.md",
+    "2. Glossary/Divine Ascension.md",
+    "2. Glossary/Damage (Trauma) WIP.md",
+    "2. Glossary/Cost.md",
+    "2. Glossary/Contest (WIP).md",
+    "2. Glossary/Catastrophe.md",
     "2. Glossary/Karma.md",
     "2. Glossary/Mortals.md",
     "2. Glossary/Heavenkins.md",
     "2. Glossary/gods.md",
-    "2. Glossary/Fractures.md",
-    "2. Glossary/Fractured World.md",
     "2. Glossary/Touchstones.md",
-    "1. Main book/4. Character Creation.md",
-    "1. Main book/5. Divine Ascension.md",
     "2. Glossary/Recipe for Disaster.md",
     "2. Glossary/Tiers (of Divinity).md",
     "2. Glossary/Macrocosms.md",
-    "2. Glossary/XP (Experience).md",
-    "README.md",
-    "1. Main book/3. Running the Game.md",
     "Untitled.canvas",
     "Untitled.base",
     "3. Discord Bot (WIP)",
