@@ -5,4 +5,6 @@ Humanity may be the methods humans use to interact with the world, whether be it
 In contrast, Divinity exist only in discrete and limited portrayal in fiction, religion, and pop culture. This system offers an attempt to encompass as many portrayals of Divinity as possible, and defines Divinity as "An alternative method to Humanity, from root thoughts to actionable behavior, in interactions with the world." 
 
 Utilizing Divinity could be a different way to solve problem, a different perspective to look at situations, or entirely different understanding of how and why the world is. Though, this process requires suspension of your disbelief, as we humans may never have factual and correct interpretation of Divinity, only speculations and deep exploration. 
-
+##### At Character Creation: 
+##### In Game: 
+##### Regarding Advancement: 
