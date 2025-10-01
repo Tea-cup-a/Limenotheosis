@@ -48,10 +48,10 @@ Each ritual is a multi-session event:
 - T7: 3 Advance, 3-step ritual, 1 final miracle (Pinnacle)  
 
 ---
-### Humanity as Currency
-If a player cannot meet Ascension requirements, but it is necessary to Ascend, players may sacrifice their Hu.
+#### Humanity as Currency
+If a player cannot meet Ascension requirements, but it is necessary to Ascend, players may sacrifice their Humanity and Touchstones to meet the requirements.
 
-- XP Substitution: Spend humanity equal to your current Tier per missing XP (e.g., 4 humanity for 1 XP at T4).  
-- Miracle Substitution: A player may sacrifice a touchstone (driving force or capability) to replace a required miracle.  
+- Advancement Substitution: Spend humanity at a 1 to 1 ratio for XP.
+- Miracle Substitution: Sacrifice a touchstone for each required miracle.  
 
-However, ingredients and rituals cannot be bypassed.
+Ingredients and Rituals, however, cannot be bypassed or substituted this way.
