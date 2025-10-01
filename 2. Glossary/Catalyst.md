@@ -1,7 +1,7 @@
 A Catalyst is a personal challenge or obstacle that poses a threat to your core character. It may: 
 * Tenets: Threaten what you would live for, fight for, or die for.
 * Motivations: Obstruct the path to achieve your Desire, or is the source of your Fear. 
-* [Capabilities](Capabilities.md): Due to hubris regarding your Strengths, or shortcomings via Weaknesses.
+* [Capabilities](../2.%20Glossary/Capabilities.md): Due to hubris regarding your Strengths, or shortcomings via Weaknesses.
 Most importantly, if has to be a challenge that your character cannot solve personally by any means short of a miracle. 
 ###### Examples of Catalyst according to Origin
 Hellborn:
