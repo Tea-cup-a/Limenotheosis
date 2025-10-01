@@ -6,7 +6,7 @@ The number of XP needed for an advance is different for each Tier of Divinity:
 * T3: 4XP per Advance
 * T4: 5XP per Advance
 * T5: 6XP per Advance
-* T6: 14XP per Advance
+* T6: 7XP per Advance
 
 Advances can be spent on the following: 
 * Motivations: 
@@ -20,4 +20,5 @@ Advances can be spent on the following:
 * Miracles: 
 	* Gain a new aspect for one Miracle
 	* Increase one aspect for one Miracle (Up to current Tier of Divinity)
-* 
+* Divine Ascension: 
+	* Advances are necessary to fuel the ascension towards the next stage of their Divinity.
