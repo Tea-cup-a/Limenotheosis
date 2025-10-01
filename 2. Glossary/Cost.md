@@ -17,4 +17,4 @@ To succeed at this costly action, players can utilize resources to lessen the im
 - First, use your miracle to negate all costs for this action.
 - Second, check the [Capabilities](../2.%20Glossary/Capabilities.md) of your character, see if any of your strength may help.
 - Third, spend Drive from the party's share pool. Drive negate cost at a 1 to 1 ratio.
-- Fourth, pay the cost by receiving [Damage (Trauma) WIP](../2.%20Glossary/Damage%20(Trauma)%20WIP.md). 
+- Fourth, pay the cost by receiving [Damage (Trauma) WIP](2.%20Glossary/Damage%20(Trauma)%20WIP.md)
