@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Glossary/Cost.md",
+                "file": "2. Glossary/Damage (Trauma) WIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cost"
+              "title": "Damage (Trauma) WIP"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "dd61e16fc106092d",
   "lastOpenFiles": [
-    "2. Glossary/Damage (Trauma).md",
     "2. Glossary/Cost.md",
+    "2. Glossary/Damage (Trauma) WIP.md",
     "2. Glossary/Catastrophe.md",
     "1. Main book/5. Divine Ascension.md",
     "1. Main book/4. Character Creation.md",
