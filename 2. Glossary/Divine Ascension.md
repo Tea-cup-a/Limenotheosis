@@ -1,4 +1,4 @@
-Limenotheosis offers an intentional progression system. To progress and ascend, players and characters alike must intentionally chase the components involved in ascension. 
+Limenotheosis' progression system isn't a passive one. To progress and ascend, players and characters alike must intentionally chase the components involved in Divine Ascension. 
 
 Each Tier has different components for Ascension, below is a quick reference: 
 #### Tier 0: The Spark
