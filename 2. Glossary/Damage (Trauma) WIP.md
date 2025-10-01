@@ -6,11 +6,11 @@ The game offers 2 types of Damage and 2 types of Trauma below:
 	- Erasure: all injuries and afflictions upon the body and mind. Defects, damages, conditions and scars all belong in this category. 
 	- Denial: all identity-related trauma, forcing you to confront your identity and risk losing parts of yourself. 
 ##### In Game: 
-During the game, there are sometimes costly actions 
+During the game, there are sometimes consequences associated with player action, specifically if the actions fail. These consequences via failure will result in Damage (Trauma) determined by the GM. It is influenced by the situation, the action, and will immediately fall upon the character.
 
+Another way for characters to receive consequences are if players decide to succeed at a cost. Each cost fills up a gauge before resulting in Damage (Trauma). At 1, 2, or 3 costs, the consequences only looms over you. The last cost tips the gauge over, and results in Damage.
 
-Each remaining cost contributes to these consequences and fills up a gauge before disaster falls. At 1, 2, or 3 costs in each consequence, disaster looms over you. Once the last cost point tips the gauge over, consequence falls accordingly.
-
+Mechanically, Damage and Trauma looks like this:
 - Sublimation: Immediately gain an omen, elaborated further below. 
 - Crystallization: Lose humanity equal to the current Divinity Tier. 
 - Erasure: Gain an injury or condition, forcing additional circumstantial die.
