@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7b6f0669628eda",
+        "id": "0f121e7502c8e500",
         "type": "tabs",
         "children": [
           {
-            "id": "164d4714a5c4160b",
+            "id": "28119110a2243e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Glossary/Fractured World.md",
+                "file": "2. Glossary/Advances (Advancement).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fractured World"
+              "title": "Advances (Advancement)"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Glossary/Fractured World.md",
+                "file": "2. Glossary/Advances (Advancement).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fractured World"
+              "title": "Outgoing links from Advances (Advancement)"
             }
           },
           {
@@ -171,8 +171,15 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "164d4714a5c4160b",
+  "active": "28119110a2243e76",
   "lastOpenFiles": [
+    "1. Main book/4. Character Creation (P1).md",
+    "2. Glossary/Capabilities.md",
+    "1. Main book/2. The Fractured World (P3).md",
+    "1. Main book/5. Divine Ascension (P4).md",
+    "1. Main book/6. Humanity and Divinity (P6).md",
+    "1. Main book/3. Running the Game (P5).md",
+    "1. Main book/1. Concepts (P2).md",
     "2. Glossary/Drive.md",
     "2. Glossary/Divinity.md",
     "2. Glossary/Damage (Trauma) WIP.md",
@@ -180,14 +187,7 @@
     "2. Glossary/Contest (WIP).md",
     "2. Glossary/Catastrophe.md",
     "2. Glossary/Catalyst.md",
-    "2. Glossary/Capabilities.md",
     "2. Glossary/Advances (Advancement).md",
-    "1. Main book/6. Humanity and Divinity.md",
-    "1. Main book/5. Divine Ascension.md",
-    "1. Main book/4. Character Creation.md",
-    "1. Main book/3. Running the Game.md",
-    "1. Main book/2. The Fractured World.md",
-    "1. Main book/1. Concepts.md",
     "2. Glossary/Worlds.md",
     "2. Glossary/Recipe for Disaster.md",
     "2. Glossary/Specialization.md",
