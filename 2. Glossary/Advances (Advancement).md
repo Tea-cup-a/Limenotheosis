@@ -12,7 +12,7 @@ Advances can be spent on the following:
 * Motivations: 
 	* Gain 1 progress towards one Desire.
 	* Gain 1 overcome towards one Fear.
-* Capabilities: 
+* [Capabilities](Capabilities.md): 
 	* Increase the potency of your Strength by 1. 
 	* Develop a new Strength. 
 	* Decrease the potency of your Weakness by 1. 

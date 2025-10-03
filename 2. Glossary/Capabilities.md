@@ -1,5 +1,4 @@
 Capabilities are the Strengths and Weaknesses of your character. They define what your character are capable of performing regularly and without effort, or effortful actions that may result in failure. Undefined Strengths and Weaknesses are considered to be ambiguous, but still possible to either succeed or fail depending on the circumstance and at the GM's discretion. 
-
 ##### At Character Creation: 
 * Define your Character's Strengths and Weaknesses based on your character concept. 
 	* Origins, Tenets, Motivations, and general backstory can all inform this decision
