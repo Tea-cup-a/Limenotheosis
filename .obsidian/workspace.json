@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Main book/4. Character Creation (P1).md",
+                "file": "1. Main book/5. Divine Ascension (P4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Character Creation (P1)"
+              "title": "5. Divine Ascension (P4)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Main book/4. Character Creation (P1).md",
+                "file": "1. Main book/5. Divine Ascension (P4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Character Creation (P1)"
+              "title": "Backlinks for 5. Divine Ascension (P4)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Main book/4. Character Creation (P1).md",
+                "file": "1. Main book/3. Running the Game (P5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Character Creation (P1)"
+              "title": "Outgoing links from 3. Running the Game (P5)"
             }
           },
           {
@@ -165,22 +165,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false,
-      "webpage-html-export:Export as HTML": false
+      "bases:Create new base": false
     }
   },
   "active": "28119110a2243e76",
   "lastOpenFiles": [
+    "1. Main book/3. Character Creation (P1).md",
+    "1. Main book/4. Running the Game (P5).md",
     "1. Main book/1. Concepts (P2).md",
-    "1. Main book/4. Character Creation (P1).md",
     "2. Glossary/Capabilities.md",
     "1. Main book/6. Humanity and Divinity (P6).md",
     "2. Glossary/Advances (Advancement).md",
     "().md",
     "1. Main book/2. The Fractured World (P3).md",
     "1. Main book/5. Divine Ascension (P4).md",
-    "1. Main book/3. Running the Game (P5).md",
     "2. Glossary/Drive.md",
     "2. Glossary/Divinity.md",
     "2. Glossary/Damage (Trauma) WIP.md",

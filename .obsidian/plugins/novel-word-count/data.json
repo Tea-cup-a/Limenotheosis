@@ -68,60 +68,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "3. Discord Bot (WIP)/Necessary Functions.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 35,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 326,
-      "nonWhitespaceCharacterCount": 274,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759048604145,
-      "modifiedDate": 1759125811949,
-      "sizeInBytes": 326,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11666666666666667,
-        "wordCount": 35,
-        "characterCount": 326,
-        "nonWhitespaceCharacterCount": 274,
-        "newlineCount": 18
-      }
-    },
-    "3. Discord Bot (WIP)/Coding lesson needed.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 83,
-      "nonWhitespaceCharacterCount": 70,
-      "newlineCount": 3,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759248207961,
-      "modifiedDate": 1759248235697,
-      "sizeInBytes": 83,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 83,
-        "nonWhitespaceCharacterCount": 70,
-        "newlineCount": 3
-      }
-    },
     "2. Glossary/XP (Experience).md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -147,33 +93,6 @@
         "characterCount": 400,
         "nonWhitespaceCharacterCount": 309,
         "newlineCount": 13
-      }
-    },
-    "2. Glossary/Tenets.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759126802109,
-      "modifiedDate": 1759126812148,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     },
     "2. Glossary/Worlds.md": {
@@ -203,33 +122,6 @@
         "newlineCount": 0
       }
     },
-    "2. Glossary/Tiers (of Divinity).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 244,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8133333333333334,
-      "characterCount": 3003,
-      "nonWhitespaceCharacterCount": 1490,
-      "newlineCount": 16,
-      "readingTimeInMinutes": 0.9207547169811321,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759126947623,
-      "modifiedDate": 1759296864698,
-      "sizeInBytes": 3019,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8133333333333334,
-        "wordCount": 244,
-        "characterCount": 3003,
-        "nonWhitespaceCharacterCount": 1490,
-        "newlineCount": 16
-      }
-    },
     "2. Glossary/Touchstones.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -247,60 +139,6 @@
       "aliases": null,
       "createdDate": 1759297287660,
       "modifiedDate": 1759297287660,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Time.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759126847398,
-      "modifiedDate": 1759126847398,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Recipe for Disaster.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759126708969,
-      "modifiedDate": 1759126720647,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -338,6 +176,87 @@
         "newlineCount": 0
       }
     },
+    "2. Glossary/Time.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759126847398,
+      "modifiedDate": 1759126847398,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Glossary/Tiers (of Divinity).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 244,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 3003,
+      "nonWhitespaceCharacterCount": 1490,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.9207547169811321,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759126947623,
+      "modifiedDate": 1759296864698,
+      "sizeInBytes": 3019,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8133333333333334,
+        "wordCount": 244,
+        "characterCount": 3003,
+        "nonWhitespaceCharacterCount": 1490,
+        "newlineCount": 16
+      }
+    },
+    "2. Glossary/Tenets.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759126802109,
+      "modifiedDate": 1759126812148,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Glossary/Spark.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -355,33 +274,6 @@
       "aliases": null,
       "createdDate": 1759126947623,
       "modifiedDate": 1759126950360,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Realms.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759078020754,
-      "modifiedDate": 1759078020754,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -419,6 +311,33 @@
         "newlineCount": 0
       }
     },
+    "2. Glossary/Recipe for Disaster.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759126708969,
+      "modifiedDate": 1759126720647,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Glossary/Rest.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -446,87 +365,6 @@
         "newlineCount": 0
       }
     },
-    "2. Glossary/Omen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759060864792,
-      "modifiedDate": 1759060864792,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Microcosms.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759078020754,
-      "modifiedDate": 1759078036139,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Miracle Wielders.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759045339993,
-      "modifiedDate": 1759045353067,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Glossary/Motivations.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -544,6 +382,60 @@
       "aliases": null,
       "createdDate": 1759126802109,
       "modifiedDate": 1759126818919,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Glossary/Realms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759078020754,
+      "modifiedDate": 1759078020754,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Glossary/Omen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759060864792,
+      "modifiedDate": 1759060864792,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -608,7 +500,7 @@
         "newlineCount": 0
       }
     },
-    "2. Glossary/Kindreds.md": {
+    "2. Glossary/Miracle Wielders.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -623,8 +515,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1759047429936,
-      "modifiedDate": 1759047441159,
+      "createdDate": 1759045339993,
+      "modifiedDate": 1759045353067,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -635,7 +527,7 @@
         "newlineCount": 0
       }
     },
-    "2. Glossary/Macrocosms.md": {
+    "2. Glossary/Microcosms.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -651,61 +543,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759078020754,
-      "modifiedDate": 1759078039249,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Hellborns.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759047429936,
-      "modifiedDate": 1759047429936,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/Humanity.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759126947623,
-      "modifiedDate": 1759126975345,
+      "modifiedDate": 1759078036139,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -743,6 +581,60 @@
         "newlineCount": 0
       }
     },
+    "2. Glossary/Macrocosms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759078020754,
+      "modifiedDate": 1759078039249,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Glossary/Kindreds.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759047429936,
+      "modifiedDate": 1759047441159,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Glossary/Karma.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -770,6 +662,33 @@
         "newlineCount": 3
       }
     },
+    "2. Glossary/Humanity.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759126947623,
+      "modifiedDate": 1759126975345,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Glossary/Hell.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -787,6 +706,33 @@
       "aliases": null,
       "createdDate": 1759126747911,
       "modifiedDate": 1759126747911,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Glossary/Hellborns.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759047429936,
+      "modifiedDate": 1759047429936,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -824,33 +770,6 @@
         "newlineCount": 0
       }
     },
-    "2. Glossary/Heavenkins.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759047429936,
-      "modifiedDate": 1759047435501,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Glossary/Heaven.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -878,7 +797,7 @@
         "newlineCount": 0
       }
     },
-    "2. Glossary/Drive.md": {
+    "2. Glossary/Heavenkins.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -893,35 +812,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1759037530157,
-      "modifiedDate": 1759037543753,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "2. Glossary/gods.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759045339993,
-      "modifiedDate": 1759045362304,
+      "createdDate": 1759047429936,
+      "modifiedDate": 1759047435501,
       "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
@@ -959,6 +851,60 @@
         "newlineCount": 0
       }
     },
+    "2. Glossary/gods.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759045339993,
+      "modifiedDate": 1759045362304,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "2. Glossary/Drive.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759037530157,
+      "modifiedDate": 1759037543753,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "2. Glossary/Divinity.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -984,6 +930,33 @@
         "characterCount": 1305,
         "nonWhitespaceCharacterCount": 1092,
         "newlineCount": 10
+      }
+    },
+    "2. Glossary/Cost.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 306,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.02,
+      "characterCount": 1854,
+      "nonWhitespaceCharacterCount": 1529,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 1.1547169811320754,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759037530157,
+      "modifiedDate": 1759330385380,
+      "sizeInBytes": 1856,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.02,
+        "wordCount": 306,
+        "characterCount": 1854,
+        "nonWhitespaceCharacterCount": 1529,
+        "newlineCount": 20
       }
     },
     "2. Glossary/Divine Ascension.md": {
@@ -1040,33 +1013,6 @@
         "newlineCount": 13
       }
     },
-    "2. Glossary/Contest (WIP).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1759126847398,
-      "modifiedDate": 1759126850613,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "2. Glossary/Damage (Trauma) WIP.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1094,31 +1040,31 @@
         "newlineCount": 19
       }
     },
-    "2. Glossary/Cost.md": {
+    "2. Glossary/Contest (WIP).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 306,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.02,
-      "characterCount": 1854,
-      "nonWhitespaceCharacterCount": 1529,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 1.1547169811320754,
-      "linkCount": 2,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1759037530157,
-      "modifiedDate": 1759330385380,
-      "sizeInBytes": 1856,
+      "createdDate": 1759126847398,
+      "modifiedDate": 1759126850613,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.02,
-        "wordCount": 306,
-        "characterCount": 1854,
-        "nonWhitespaceCharacterCount": 1529,
-        "newlineCount": 20
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "2. Glossary/Catalyst.md": {
@@ -1202,58 +1148,58 @@
         "newlineCount": 24
       }
     },
-    "1. Main book/2. The Fractured World (P3).md": {
+    "3. Discord Bot (WIP)/Necessary Functions.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1609,
+      "wordCount": 35,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.363333333333333,
-      "characterCount": 10152,
-      "nonWhitespaceCharacterCount": 8452,
-      "newlineCount": 103,
-      "readingTimeInMinutes": 6.071698113207547,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 326,
+      "nonWhitespaceCharacterCount": 274,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.1320754716981132,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1759051601279,
-      "modifiedDate": 1759501710860,
-      "sizeInBytes": 10175,
+      "createdDate": 1759048604145,
+      "modifiedDate": 1759125811949,
+      "sizeInBytes": 326,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 5.363333333333333,
-        "wordCount": 1609,
-        "characterCount": 10152,
-        "nonWhitespaceCharacterCount": 8452,
-        "newlineCount": 103
+        "pageCount": 0.11666666666666667,
+        "wordCount": 35,
+        "characterCount": 326,
+        "nonWhitespaceCharacterCount": 274,
+        "newlineCount": 18
       }
     },
-    "1. Main book/5. Divine Ascension (P4).md": {
+    "3. Discord Bot (WIP)/Coding lesson needed.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 775,
+      "wordCount": 14,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.5833333333333335,
-      "characterCount": 6489,
-      "nonWhitespaceCharacterCount": 4298,
-      "newlineCount": 114,
-      "readingTimeInMinutes": 2.9245283018867925,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 83,
+      "nonWhitespaceCharacterCount": 70,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.052830188679245285,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1759049178106,
-      "modifiedDate": 1759501431865,
-      "sizeInBytes": 6556,
+      "createdDate": 1759248207961,
+      "modifiedDate": 1759248235697,
+      "sizeInBytes": 83,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.5833333333333335,
-        "wordCount": 775,
-        "characterCount": 6489,
-        "nonWhitespaceCharacterCount": 4298,
-        "newlineCount": 114
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 83,
+        "nonWhitespaceCharacterCount": 70,
+        "newlineCount": 3
       }
     },
     "1. Main book/6. Humanity and Divinity (P6).md": {
@@ -1283,31 +1229,31 @@
         "newlineCount": 40
       }
     },
-    "1. Main book/3. Running the Game (P5).md": {
+    "1. Main book/5. Divine Ascension (P4).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 910,
+      "wordCount": 775,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.033333333333333,
-      "characterCount": 5726,
-      "nonWhitespaceCharacterCount": 4727,
-      "newlineCount": 77,
-      "readingTimeInMinutes": 3.4339622641509435,
-      "linkCount": 3,
+      "pageCount": 2.5833333333333335,
+      "characterCount": 6489,
+      "nonWhitespaceCharacterCount": 4298,
+      "newlineCount": 114,
+      "readingTimeInMinutes": 2.9245283018867925,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1759036742046,
-      "modifiedDate": 1759501617547,
-      "sizeInBytes": 5744,
+      "createdDate": 1759049178106,
+      "modifiedDate": 1759501431865,
+      "sizeInBytes": 6556,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.033333333333333,
-        "wordCount": 910,
-        "characterCount": 5726,
-        "nonWhitespaceCharacterCount": 4727,
-        "newlineCount": 77
+        "pageCount": 2.5833333333333335,
+        "wordCount": 775,
+        "characterCount": 6489,
+        "nonWhitespaceCharacterCount": 4298,
+        "newlineCount": 114
       }
     },
     "1. Main book/1. Concepts (P2).md": {
@@ -1337,7 +1283,61 @@
         "newlineCount": 152
       }
     },
-    "1. Main book/4. Character Creation (P1).md": {
+    "1. Main book/2. The Fractured World (P3).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1609,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.363333333333333,
+      "characterCount": 10152,
+      "nonWhitespaceCharacterCount": 8452,
+      "newlineCount": 103,
+      "readingTimeInMinutes": 6.071698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759051601279,
+      "modifiedDate": 1759501710860,
+      "sizeInBytes": 10175,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.363333333333333,
+        "wordCount": 1609,
+        "characterCount": 10152,
+        "nonWhitespaceCharacterCount": 8452,
+        "newlineCount": 103
+      }
+    },
+    "1. Main book/4. Running the Game (P5).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 910,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.033333333333333,
+      "characterCount": 5726,
+      "nonWhitespaceCharacterCount": 4727,
+      "newlineCount": 77,
+      "readingTimeInMinutes": 3.4339622641509435,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1759036742046,
+      "modifiedDate": 1759501617547,
+      "sizeInBytes": 5744,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "1. Main book/3. Character Creation (P1).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -1349,19 +1349,19 @@
       "nonWhitespaceCharacterCount": 10962,
       "newlineCount": 186,
       "readingTimeInMinutes": 7.626415094339623,
-      "linkCount": 14,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1759045651531,
       "modifiedDate": 1759504304380,
       "sizeInBytes": 13278,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.703333333333333,
-        "wordCount": 2011,
-        "characterCount": 13169,
-        "nonWhitespaceCharacterCount": 10909,
-        "newlineCount": 186
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
