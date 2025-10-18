@@ -414,7 +414,9 @@
     "WouldNeverHave": null,
     "WroughtIron": null
   },
-  "userDictionary": [],
+  "userDictionary": [
+    "XP"
+  ],
   "dialect": 0,
   "delay": -1,
   "lintEnabled": true
