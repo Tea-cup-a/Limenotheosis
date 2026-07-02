@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Main book/3. Character Creation (P1).md",
+                "file": "1. Main book/6. Humanity and Divinity (P6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Character Creation (P1)"
+              "title": "6. Humanity and Divinity (P6)"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Main book/3. Character Creation (P1).md",
+                "file": "1. Main book/6. Humanity and Divinity (P6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Character Creation (P1)"
+              "title": "Backlinks for 6. Humanity and Divinity (P6)"
             }
           },
           {
@@ -170,15 +170,23 @@
   },
   "active": "1c2d86416bf5fc55",
   "lastOpenFiles": [
-    "1. Main book/6. Humanity and Divinity (P6).md",
-    "1. Main book/2. The Fractured World (P3).md",
-    "1. Main book/3. Character Creation (P1).md",
     "1. Main book/1. Concepts (P2).md",
     "1. Main book/5. Divine Ascension (P4).md",
-    "1. Main book/4. Running the Game (P5).md",
-    "Read me.md",
-    "2. Glossary/Capabilities.md",
+    "1. Main book/2. The Fractured World (P3).md",
+    "1. Main book/3. Character Creation (P1).md",
+    "2. Glossary/Tiers (of Divinity).md",
+    "2. Glossary/Tenets.md",
+    "2. Glossary/Time.md",
+    "2. Glossary/Touchstones.md",
+    "2. Glossary/Worlds.md",
+    "2. Glossary/XP (Experience).md",
     "2. Glossary/Advances (Advancement).md",
+    "3. Discord Bot (WIP)/Coding lesson needed.md",
+    "3. Discord Bot (WIP)/Necessary Functions.md",
+    "Read me.md",
+    "1. Main book/6. Humanity and Divinity (P6).md",
+    "1. Main book/4. Running the Game (P5).md",
+    "2. Glossary/Capabilities.md",
     "().md",
     "2. Glossary/Drive.md",
     "2. Glossary/Divinity.md",
@@ -187,15 +195,7 @@
     "2. Glossary/Contest (WIP).md",
     "2. Glossary/Catastrophe.md",
     "2. Glossary/Catalyst.md",
-    "2. Glossary/Worlds.md",
     "2. Glossary/Recipe for Disaster.md",
-    "2. Glossary/Specialization.md",
-    "2. Glossary/Humanity.md",
-    "2. Glossary/Hellborns.md",
-    "2. Glossary/Hell.md",
-    "2. Glossary/Heavenkins.md",
-    "2. Glossary/Heaven.md",
-    "2. Glossary/gods.md",
     "Untitled.canvas",
     "Untitled.base",
     "3. Discord Bot (WIP)",
